@@ -381,7 +381,7 @@ sudo unrar x go.part01.rar
 cp -R /home/ubuntu/go/Xtream_Codes_v1.0.60_Nulled.zip  /var/www/html/
 cd /var/www/html && unzip Xtream_Codes_v1.0.60_Nulled.zip && cp /var/www/html/downloads/iptv_panel_pro.zip /tmp && chmod a+x /tmp/iptv_panel_pro.zip && cp /var/www/html/downloads/install_iptv_pro.php /root/ && cd /root && chmod a+x /root/install_iptv_pro.php && php install_iptv_pro.php
 chmod 775 /var/www/html/Xtream_Codes_v1.0.60_Nulled.zip
-rm /var/www/html/Xtream_Codes_v1.0.60_Nulled.zip
+#rm /var/www/html/Xtream_Codes_v1.0.60_Nulled.zip
 cp /var/www/html/downloads/iptv_panel_pro.zip /tmp
 chmod a+x /tmp/iptv_panel_pro.zip
 #cp /var/www/html/downloads/install_iptv_pro.php /root/ #FSHIHET AUTOMATIKISHT MBAS INSTALIMIT
@@ -432,8 +432,8 @@ rm /home/ubuntu/go.part06.rar
 rm /home/ubuntu/go.part07.rar
 rm /home/ubuntu/go.part08.rar
 rm /home/ubuntu/go.part09.rar
-rm /root/install_iptv_pro.php
-rm /root/xtreamcodes_1.0.60_novo.sh
+#rm /root/install_iptv_pro.php
+#rm /root/xtreamcodes_1.0.60_novo.sh
 echo " "
 echo -e "${jeshile} ┌──────────────────────────────────────────────────────────┐ \e[0m"
 echo -e "${jeshile} │  Xtream Fuckers 10.60 Nulled By Albanian Crackers (TRC4) │ \e[0m"
